@@ -1,6 +1,8 @@
 # GeradorQrCodes
 Aplicação com o intuito de gerar Qr Code de maneira rapida e pratica. Para utiliza-lo basta colar o link da rede ou site desejado no campo "Link, 
-clicar em "Gerar" e selecionar o diretorio que deseja salvar. O Qr Code gerado é salvo no formato (.png).
+clicar em "Gerar" e selecionar o diretorio que deseja salvar. O Qr Code gerado é salvo no formato (.png).</br>
+
+Para Baixar o executavel clique <a href="https://github.com/EmmanuelMartins21/GeradorQrCodes/blob/master/Executavel/executavel.zip?raw=true">aqui</a>
 
 ## Tela
 ![image](https://github.com/EmmanuelMartins21/GeradorQrCodes/assets/72640449/14197d78-756f-43e4-9a7c-edf9ab6d4476)
